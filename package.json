@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "eventsource": "^1.1.0",
-    "homey-oauth2app": "^3.5.4"
+    "homey-oauth2app": "^3.7.2"
   },
   "engines": {
     "node": "12"
